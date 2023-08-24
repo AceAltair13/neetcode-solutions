@@ -5,6 +5,8 @@
 
 This repository contains my solutions to the problems from the NeetCode.io roadmap on LeetCode. The NeetCode.io roadmap provides a structured path for improving algorithmic and problem-solving skills. I will try to regularly update the repository with solutions.
 
+> Some solutions will be the ones given on the neetcode.io website :P. I do not claim those as my own solutions.
+
   
 
 ## Structure
